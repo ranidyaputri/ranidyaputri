@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ✨
 
 <!--
 **ranidyaputri/ranidyaputri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p>
   <em>
-    My name is Ranidya Putri Hantari. I am an associate's degree Informatics student at <a href="https://www.pens.ac.id/">Electronic Engineering    Polytechnic Institute of Surabaya</a>. I'm also passionate in UI/UX design, graphic design, and illustration. Wants a career as a Front-end Developer.</br>
+    My name is Ranidya Putri Hantari. I am an associate's degree of Informatics student at <a href="https://www.pens.ac.id/">Electronic Engineering    Polytechnic Institute of Surabaya</a>. I'm also passionate in UI/UX design, graphic design, and illustration. Wants a career as a Front-end Developer.</br>
   </em>
 </p>
 
