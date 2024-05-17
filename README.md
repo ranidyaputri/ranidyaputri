@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p>
   <em>
-    I am Ranidya Putri Hantari. I am an associate's degree of Informatics student at <a href="https://www.pens.ac.id/">Electronic Engineering Polytechnic Institute of Surabaya</a>. I'm also passionate in UI/UX design, graphic design, and illustration.</br>
+    I am Ranidya Putri Hantari. A fresh graduate associate degree of Informatics student at <a href="https://www.pens.ac.id/">Electronic Engineering Polytechnic Institute of Surabaya</a>. I'm interested and looking for job in web development and UI/UX design.</br>
   </em>
 </p>
 
