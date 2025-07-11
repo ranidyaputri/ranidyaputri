@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <h2>💻 Some stats 💻</h2>
 
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=ranidyaputri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<!-- ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=ranidyaputri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranidyaputri&theme=blue-green)
 
